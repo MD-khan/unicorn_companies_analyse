@@ -1,0 +1,28 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# Data files
+data/raw/
+data/processed/
+
+# Output files
+outputs/
+*.csv
+*.log
+
+# Hidden system files (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+.env

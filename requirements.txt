@@ -1,0 +1,16 @@
+# Essential packages
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+jupyterlab
+ipykernel
+geopandas
+
+# Additional tools
+plotly       # Interactive visualizations
+dash         # Web-based dashboard (optional)
+streamlit    # Another dashboarding option (optional)
+pyarrow      # Faster CSV and Parquet processing

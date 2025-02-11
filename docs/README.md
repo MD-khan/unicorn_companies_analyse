@@ -1,0 +1,3 @@
+# NOAA Lightning Strikes Analysis
+
+Project description...
